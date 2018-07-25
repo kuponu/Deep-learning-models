@@ -6,4 +6,4 @@ These models were used to recognize optical characters.
 One would see that as you move along the models (from LR to CNN), the model performance begins to improve.
 
 ### Note:
-Training data was not uploading because of the size. This can be downloaded on http://yann.lecun.com/exdb/mnist/
+Training data was not uploaded because the data size is large. This can be downloaded on http://yann.lecun.com/exdb/mnist/
